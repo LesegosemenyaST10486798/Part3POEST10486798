@@ -45,3 +45,6 @@ feat(participant): display personal finish times and positions
 Phase 7: Image Storage and UI Design
 feat(media): implement API-backed image proxy for uploaded media
 style(ui): apply RaceDay branding and shared responsive layout
+
+
+Phase 8: Testing and Docker
