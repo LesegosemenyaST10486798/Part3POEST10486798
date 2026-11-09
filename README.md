@@ -13,3 +13,4 @@ feat(api): expose authentication, event, enrolment and result endpoints
 Phase 2: MVC Application Development
 feat(mvc): scaffold MVC application and API endpoint settings
 feat(mvc): add presentation models for forms and API responses
+feat(mvc): implement typed API client and request forwarding
