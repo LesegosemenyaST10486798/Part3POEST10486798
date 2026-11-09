@@ -21,3 +21,6 @@ Phase 3: Authentication and User Management
 feat(auth): implement account lifecycle and session actions
 feat(auth): build registration, sign-in and denied-access pages
 feat(profile): provide account profile editing form
+
+
+Phase 4: Event Management
