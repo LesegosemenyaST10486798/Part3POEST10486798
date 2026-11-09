@@ -36,3 +36,4 @@ feat(categories): build organiser category management interface
 feat(results): show organiser enrolment register and results entry
 
 
+Phase 6: Participant Interface
