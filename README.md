@@ -48,3 +48,8 @@ style(ui): apply RaceDay branding and shared responsive layout
 
 
 Phase 8: Testing and Docker
+test(api): add automated registration and role-access integration tests
+build(docker): containerise MVC, API, SQL Server and blob emulator
+
+Phase 9: GitHub Actions and Documentation
+ci(docs): add CI pipeline, README and submission guides
