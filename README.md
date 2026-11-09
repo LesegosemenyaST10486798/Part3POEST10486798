@@ -26,3 +26,7 @@ feat(profile): provide account profile editing form
 Phase 4: Event Management
 feat(events): add public event browsing and detail controller actions
 feat(events): display upcoming events, details and friendly errors
+
+
+Phase 5: Organiser Interface
+feat(organiser): implement event, category and results actions
