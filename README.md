@@ -17,3 +17,4 @@ feat(mvc): implement typed API client and request forwarding
 feat(mvc): configure session, role guards and service registration
 
 
+Phase 3: Authentication and User Management
