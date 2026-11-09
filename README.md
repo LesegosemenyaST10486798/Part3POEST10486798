@@ -18,3 +18,4 @@ feat(mvc): configure session, role guards and service registration
 
 
 Phase 3: Authentication and User Management
+feat(auth): implement account lifecycle and session actions
