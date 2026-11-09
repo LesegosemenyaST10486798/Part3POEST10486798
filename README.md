@@ -40,3 +40,6 @@ Phase 6: Participant Interface
 feat(participant): add enrolment, result and profile navigation
 feat(participant): build participant home and my enrolments pages
 feat(participant): display personal finish times and positions
+
+
+Phase 7: Image Storage and UI Design
