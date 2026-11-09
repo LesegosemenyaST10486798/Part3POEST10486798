@@ -33,3 +33,6 @@ feat(organiser): implement event, category and results actions
 feat(organiser): build event dashboard with summary metrics
 feat(organiser): create reusable event create and edit form
 feat(categories): build organiser category management interface
+feat(results): show organiser enrolment register and results entry
+
+
