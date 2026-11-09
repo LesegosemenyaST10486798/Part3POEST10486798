@@ -30,3 +30,4 @@ feat(events): display upcoming events, details and friendly errors
 
 Phase 5: Organiser Interface
 feat(organiser): implement event, category and results actions
+feat(organiser): build event dashboard with summary metrics
