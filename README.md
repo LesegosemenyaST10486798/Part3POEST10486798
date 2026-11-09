@@ -6,3 +6,4 @@ chore: initialise RaceDay solution and repository safeguards
 feat(api): scaffold ASP.NET Core API and local configuration
 feat(domain): model users, events, categories and race results
 feat(data): configure race database schema and relationships
+feat(api): define validated request contracts for RaceDay operations
