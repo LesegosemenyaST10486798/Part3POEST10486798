@@ -37,3 +37,6 @@ feat(results): show organiser enrolment register and results entry
 
 
 Phase 6: Participant Interface
+feat(participant): add enrolment, result and profile navigation
+feat(participant): build participant home and my enrolments pages
+feat(participant): display personal finish times and positions
